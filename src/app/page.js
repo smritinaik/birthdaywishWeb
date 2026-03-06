@@ -70,7 +70,7 @@ export default function Home() {
       <main className='w-full md:w-[820px] bg-stone-800 pixel-border flex flex-col items-center'>
         <div className='bg-[#d6dd70] stripes w-full md:h-40 flex flex-col md:flex-row justify-between items-center'>
           <div>
-            <Image src='/girl.png' width='150' height='150' alt='' />
+            <Image src='/saniya.png' width='150' height='150' alt='' />
           </div>
           <div className='p-5'>
             <span className={`${Honk.className} text-2xl`}>
@@ -136,7 +136,7 @@ export default function Home() {
               </div>
               <div className='rounded-md bg-gradient-to-br from-violet-100 to-violet-400 border-violet-600 border-4 drop-shadow-md'>
                 <Image
-                  src='/ravioli.png'
+                  src='/momo.png'
                   alt='Capsule'
                   width={100}
                   height={100}
@@ -144,7 +144,7 @@ export default function Home() {
               </div>
               <div className='rounded-md bg-gradient-to-br from-sky-100 to-sky-400 border-sky-600 border-4 drop-shadow-md'>
                 <Image
-                  src='/noodles.png'
+                  src='/burger.png'
                   alt='Capsule'
                   width={100}
                   height={100}
@@ -223,7 +223,7 @@ export default function Home() {
                 <h3
                   className={`${Nabla.className} text-center uppercase text-3xl pixel-text`}
                 >
-                  Our Memories
+                 yaaa yaaaa
                 </h3>
               </div>
               <div className='bg-white pixel-border'>
