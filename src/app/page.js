@@ -28,7 +28,7 @@ const songs = [
   "Fix your codes",
   "make more reels",
   "be happy",
-  "enjoyyyyyyyyy",
+  "enjoyyyy",
 ]
 
 export default function Home() {
